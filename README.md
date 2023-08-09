@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logibeak
 - 👀 I’m interested in Computer Science and IT
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me : discord - coulton#1704
 
 <!---
